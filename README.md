@@ -95,9 +95,9 @@ I'm Steven Du, a Computer Science student at Dalhousie University. I have practi
 # 📊 GitHub Stats/Trophies:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StevenDs233&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="100px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenDs233&theme=dark&hide_border=false" height="100px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDs233&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StevenDs233&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenDs233&theme=dark&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenDs233&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150px"/>
 </div>
 
 ---
